@@ -10,6 +10,7 @@ Reglamento (UE) 2024/1689 del Parlamento Europeo y del Consejo, de 13 de junio d
 * 2 agosto 2025: obligaciones para Desarrolladores de IA.
 
 ### ¿Qué es el Reglamento de Inteligencia Artificial?
+
 El Reglamento de IA tiene por objeto garantizar que los sistemas de inteligencia artificial (IA) se desarrollen y utilicen de manera responsable. Las normas imponen obligaciones a los proveedores y los responsables del despliegue de tecnologías de IA y regulan la autorización de los sistemas de inteligencia artificial en el mercado único de la UE.
 
 El Reglamento aborda los riesgos relacionados con la IA, como los sesgos, la discriminación y las lagunas en la rendición de cuentas, promueve la innovación y fomenta la adopción de la IA.
